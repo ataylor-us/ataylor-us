@@ -6,6 +6,8 @@ I'm passionate about open source software, and publish most of my home setup pub
 
 I'm an avid user of Ansible automation, which I use to keep my machines configured and reproducible.  I'll typically take one of my [base repo templates](https://github.com/ataylor-us/arch-base-infra), and build out a machine from there.  I aim for simple IaC that can be trivially moved between hosts and scaled when necessary.
 
+I've been self-hosting my own infrastructure in some capacity since 2018.  I'm constantly learning and trying out new projects.  Some of my favorite projects include [Actual Budget](https://github.com/actualbudget/actual), [Immich](https://github.com/immich-app/immich), and [Home Assistant](https://github.com/home-assistant).
+
 Some fun repos I work on:
 - [🌐 frontend-infra](https://github.com/ataylor-us/frontend-infra) - My main "frontend" self-hosted service box, which I treat like a production box.
 - [💻 laptop-infra](https://github.com/ataylor-us/laptop-infra) - Installs & configures software on my MacBook Pro.
