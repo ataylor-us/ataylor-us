@@ -2,7 +2,7 @@
 
 My name is Alex Taylor, and I'm a Consultant, System Administrator, and all around automation enthusiast. 
 
-I'm passionate about open source software, and publish most of my home setup publicly here on GitHub.
+I'm passionate about open source software, and publish most of my home setup publicly here on GitHub.  Typically, I organize each machine into its own repo, and aim for simple IaC that can be trivially moved between hosts and scaled when necessary.
 
 I'm an avid user of Ansible automation, which I use to keep my machines configured and reproducible.  I'll typically take one of my [base repo templates](https://github.com/ataylor-us/arch-base-infra), and build out a machine from there.
 
