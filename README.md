@@ -12,6 +12,6 @@ Some fun repos I work on:
 - [🌐 frontend-infra](https://github.com/ataylor-us/frontend-infra) - My main "frontend" self-hosted service box, which I treat like a production box.
 - [💻 laptop-infra](https://github.com/ataylor-us/laptop-infra) - Installs & configures software on my MacBook Pro.
 - [🎮 gamepc-infra](https://github.com/ataylor-us/gamepc-infra) - My gaming PC, documented & set up with Ansible.
-  - [🛋️ iot-jump-infra](https://github.com/ataylor-us/iot-jump-infra) - This machine's sole purpose is to sit on the same network and power on the Gaming PC, so I can remain seated on the couch.
+  - [🛋️ iot-jump-infra](https://github.com/ataylor-us/iot-jump-infra) - This machine's sole purpose is to sit on the same network and power on the gaming PC, so I can remain seated on the couch.
 
 Feel free to create a PR on any of my projects, or just reach out ☀️!
