@@ -11,6 +11,7 @@ I've been self-hosting my own infrastructure in some capacity since 2018.  I'm c
 Some fun repos I work on:
 - [🌐 frontend-infra](https://github.com/ataylor-us/frontend-infra) - My main "frontend" self-hosted service box, which I treat like a production box.
 - [💻 laptop-infra](https://github.com/ataylor-us/laptop-infra) - Installs & configures software on my MacBook Pro.
+- [🫙 nas-infra](https://github.com/ataylor-us/nas-infra) - My ZFS "NAS" setup, shares exports with my other boxes via NFS & Samba.
 - [🎮 gamepc-infra](https://github.com/ataylor-us/gamepc-infra) - My gaming PC, documented & set up with Ansible.
   - [🛋️ iot-jump-infra](https://github.com/ataylor-us/iot-jump-infra) - This machine's sole purpose is to sit on the same network and power on the gaming PC, so I can remain seated on the couch.
 
