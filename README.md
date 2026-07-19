@@ -9,8 +9,8 @@ I'm an avid user of [Ansible](https://github.com/ansible/ansible) automation, wh
 I've been self-hosting my own infrastructure in some capacity since 2018.  I'm constantly learning and trying out new projects.  Some of my favorite projects include [Actual Budget](https://github.com/actualbudget/actual), [Immich](https://github.com/immich-app/immich), [Karakeep](https://github.com/karakeep-app/karakeep), and [Home Assistant](https://github.com/home-assistant).
 
 Some fun repos I work on:
-- [🌐 frontend-infra](https://github.com/ataylor-us/frontend-infra) - My main "frontend" self-hosted service box, which I treat like a production box.
-- [🗼 beacon-nix](https://github.com/ataylor-us/beacon-nix) - My essential services box (Home Assistant + Uptime-Kuma + AdGuard Home), running [NixOS](https://nixos.org/).
+- [🌐 frontend-infra](https://github.com/ataylor-us/frontend-infra) - My main "frontend" self-hosted service box, proxied by [Caddy](https://caddyserver.com/) + [Tailscale](https://tailscale.com/).
+- [🗼 beacon-nix](https://github.com/ataylor-us/beacon-nix) - My standalone essential services box (Home Assistant + Uptime-Kuma + AdGuard Home), running [NixOS](https://nixos.org/).
 - [💻 laptop-infra](https://github.com/ataylor-us/laptop-infra) - Installs & configures software on my MacBook Pro.
 - [🫙 nas-infra](https://github.com/ataylor-us/nas-infra) - My ZFS "NAS" setup, shares exports with my other boxes via NFS & Samba.
 - [🎮 gamepc-infra](https://github.com/ataylor-us/gamepc-infra) - My gaming PC, documented & set up with Ansible.
