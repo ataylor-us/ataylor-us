@@ -10,7 +10,7 @@ I've been self-hosting my own infrastructure in some capacity since 2018.  I'm c
 
 Some fun repos I work on:
 - [🌐 frontend-infra](https://github.com/ataylor-us/frontend-infra) - My main "frontend" self-hosted service box, proxied by [Caddy](https://caddyserver.com/) + [Tailscale](https://tailscale.com/).
-- [🗼 beacon-nix](https://github.com/ataylor-us/beacon-nix) - My standalone essential services box (Home Assistant + Uptime-Kuma + AdGuard Home), running [NixOS](https://nixos.org/).
+- [🗼 beacon-nix](https://github.com/ataylor-us/beacon-nix) - My standalone essential services box (Home Assistant + Uptime-Kuma + AdGuard Home), runs [NixOS](https://nixos.org/).
 - [💻 laptop-infra](https://github.com/ataylor-us/laptop-infra) - Installs & configures software on my MacBook Pro.
 - [🫙 nas-infra](https://github.com/ataylor-us/nas-infra) - My ZFS "NAS" setup, shares exports with my other boxes via NFS & Samba.
 - [🎮 gamepc-infra](https://github.com/ataylor-us/gamepc-infra) - My gaming PC, documented & set up with Ansible.
